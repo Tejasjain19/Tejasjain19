@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/tejasjain1912" target="blank"><img src="https://img.shields.io/twitter/follow/tejasjain1912?logo=twitter&style=for-the-badge" alt="tejasjain1912" /></a> </p>
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **new technologies**
 
-- 👨‍💻 All of my projects are available at [https://tejasjain19.github.io/MyPortfolio/](https://tejasjain19.github.io/MyPortfolio/)
+- 👨‍💻 All of my projects are available at [https://tejas-jain.netlify.app/](https://tejas-jain.netlify.app/)
 
 - 📫 How to reach me **tejasjainsgr@gmail.com**
 
