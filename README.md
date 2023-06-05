@@ -1,4 +1,4 @@
-![image](https://github.com/Tejasjain19/Tejasjain19/assets/77677089/bc27ac7d-4090-459d-ac87-3e573bd31069)
+
 
 <h1 align="center">Hi 👋, I'm Tejas Jain</h1>
 <h3 align="center">Competitive coder | C++ Programmer | Full Stack Developer | Tech Enthusiast</h3>
