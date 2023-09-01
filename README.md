@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/tejasjain1912" target="blank"><img src="https://img.shields.io/twitter/follow/tejasjain1912?logo=twitter&style=for-the-badge" alt="tejasjain1912" /></a> </p>
 
-- 🌱 I’m currently learning **new technologies**
+- 👨‍💻 I am a final year student at IIIT Bhopal . 
 
-- 👨‍💻 All of my projects are available at [https://tejas-jain.netlify.app/](https://tejas-jain.netlify.app/)
+- 🌱 I’m currently learning **new technologies**
 
 - 📫how to reach me **https://www.linkedin.com/in/tejasjain19/**
 
