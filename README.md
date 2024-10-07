@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/tejasjain1912" target="blank"><img src="https://img.shields.io/twitter/follow/tejasjain1912?logo=twitter&style=for-the-badge" alt="tejasjain1912" /></a> </p>
 
-- 👨‍💻 I am a final year student at IIIT Bhopal . 
+- 👨‍💻 I am currently a 2024 pass-out with a Bachelor of Technology in Information Technology from the esteemed Indian Institute of Information Technology, Bhopal . 
 
 - 🌱 I’m currently learning **new technologies**
 
